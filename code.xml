@@ -11,7 +11,7 @@
     <dateTimeUpload></dateTimeUpload>
     <description></description>
     <deviceName>SM-A600FN</deviceName>
-    <gitRemoteUrl></gitRemoteUrl>
+    <gitRemoteUrl>https://github.com/lancaster-gif/arbolet.git</gitRemoteUrl>
     <isCastProject>false</isCastProject>
     <landscapeMode>false</landscapeMode>
     <listeningLanguageTag></listeningLanguageTag>
